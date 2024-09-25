@@ -26,5 +26,5 @@
 > "I enjoy building interactive user experiences and always look forward to learning new web technologies."
 
 ### 🤝 Connect with me
-- [LinkedIn](www.linkedin.com/in/m-raihan-hafiz-91a368186)
+- [LinkedIn](https://www.linkedin.com/in/m-raihan-hafiz-91a368186/)
 - <a href="www.linkedin.com/in/m-raihan-hafiz-91a368186">LinkedIn</a>
