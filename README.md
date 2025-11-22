@@ -9,7 +9,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
 
-# 🧐 More About Me
+### 🧐 More About Me
 
 - 🔭 I’m currently looking for a job  
 - 🌱 I’m learning TypeScript  
@@ -20,7 +20,7 @@
 - 📚 I love watching anime and reading books during free time  
 
 
-# 🔨 Languages & Tools 
+### 🔨 Languages & Tools 
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" />
@@ -48,7 +48,7 @@
 </p>
 
 
-# 🌐 Connect with Me
+### 🌐 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/m-raihan-hafiz-91a368186/">
