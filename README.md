@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=0EA5E9&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Next.js+Enthusiast;Clean+Code+Lover;Always+Learning+New+Things!" />
 </p>
 
----
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
 
@@ -20,7 +19,6 @@
 - 📝 Check out my [resume](https://drive.google.com/file/d/1-fm0nYpSztEGO4HUV5Ww9SkITLyGSEmi/view?usp=sharing)  
 - 📚 I love watching anime and reading books during free time  
 
----
 
 ### 🔨 Languages & Tools
 
@@ -36,6 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="42" />
   <br/>
+  <br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" height="42" />
@@ -45,9 +44,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="42" />
 </p>
 
----
 
 ### 🌐 Connect with Me
 
